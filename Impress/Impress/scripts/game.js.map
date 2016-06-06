@@ -1,1 +1,1 @@
-{"version":3,"file":"game.js","sourceRoot":"","sources":["game.ts"],"names":[],"mappings":"AAAA,qDAAqD"}
+{"version":3,"file":"game.js","sourceRoot":"","sources":["game.ts"],"names":["init"],"mappings":"AAAA,qDAAqD;AACrD;IAEIA,OAAOA,CAACA,GAAGA,CAACA,8BAA8BA,CAACA,CAAAA;IAC3CA,OAAOA,EAAEA,CAACA,IAAIA,EAAEA,CAACA;AACrBA,CAACA"}
