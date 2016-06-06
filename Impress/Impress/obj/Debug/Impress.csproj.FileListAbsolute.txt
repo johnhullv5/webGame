@@ -1,0 +1,6 @@
+c:\users\300858525\documents\visual studio 2013\Projects\Impress\Impress\bin\Impress.dll.config
+c:\users\300858525\documents\visual studio 2013\Projects\Impress\Impress\bin\Impress.dll
+c:\users\300858525\documents\visual studio 2013\Projects\Impress\Impress\bin\Impress.pdb
+c:\users\300858525\documents\visual studio 2013\Projects\Impress\Impress\obj\Debug\Impress.csprojResolveAssemblyReference.cache
+c:\users\300858525\documents\visual studio 2013\Projects\Impress\Impress\obj\Debug\Impress.dll
+c:\users\300858525\documents\visual studio 2013\Projects\Impress\Impress\obj\Debug\Impress.pdb
