@@ -1,0 +1,10 @@
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\bin\Debug\week5Entity.exe.config
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\bin\Debug\week5Entity.exe
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\bin\Debug\week5Entity.pdb
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\bin\Debug\EntityFramework.dll
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\bin\Debug\EntityFramework.xml
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\obj\Debug\week5Entity.csprojResolveAssemblyReference.cache
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\obj\Debug\week5Entity.exe
+c:\users\hjian\documents\visual studio 2015\Projects\week5Entity\week5Entity\obj\Debug\week5Entity.pdb
