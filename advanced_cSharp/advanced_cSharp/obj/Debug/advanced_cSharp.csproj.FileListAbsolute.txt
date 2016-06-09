@@ -1,0 +1,11 @@
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\bin\Debug\advanced_cSharp.exe.config
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.Properties.Resources.resources
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.csproj.GenerateResource.Cache
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\bin\Debug\advanced_cSharp.exe
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\bin\Debug\advanced_cSharp.pdb
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.exe
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.pdb
+c:\users\hjian\documents\visual studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.csprojResolveAssemblyReference.cache
+C:\Users\hjian\Documents\Visual Studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.MainForm.resources
+C:\Users\hjian\Documents\Visual Studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.SubScribForm.resources
+C:\Users\hjian\Documents\Visual Studio 2015\Projects\advanced_cSharp\advanced_cSharp\obj\Debug\advanced_cSharp.PublishForm.resources
